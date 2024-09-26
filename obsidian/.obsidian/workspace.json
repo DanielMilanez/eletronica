@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "5b75e4c7621b2904",
+    "type": "split",
+    "children": [
+      {
+        "id": "6659ae5e10a24c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf5d87e8a302045",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Simbologia.canvas",
+                "viewState": {
+                  "x": 412,
+                  "y": -350,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "611a85c6c32d7739",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fc0b91527bf4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25da4943345d5e8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b4f8b3fc392ae37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b836398ce7afb7ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "46b318c7f45a5613",
+    "type": "split",
+    "children": [
+      {
+        "id": "db1732ff52047324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454b800bb210fe4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Simbologia.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "157eabd7fe61e344",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Simbologia.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cda68115bc3af310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4b107d0520de847",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Simbologia.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3bf5d87e8a302045",
+  "lastOpenFiles": [
+    "Unidade de Medida.canvas",
+    "Simbologia.canvas",
+    "Sem título.md"
+  ]
+}
