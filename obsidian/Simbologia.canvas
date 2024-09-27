@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"2658f67b409467b7","x":117,"y":-413,"width":323,"height":73,"type":"text","text":">*Existem 2 formas gráficas de se representar circuitos eletrônicos*"},
-		{"id":"c3da02c09934e91e","type":"text","text":"# Simbologia","x":-96,"y":-260,"width":213,"height":60},
-		{"id":"9b6997f1a2900c45","x":556,"y":-520,"width":364,"height":120,"type":"text","text":"***Diagrama de blocos***: Representa cada estágio em um circuito, utilizando-se por meio de uma caixa contendo o nome do estágio."},
-		{"id":"ad39152e4ef5ef57","x":556,"y":-320,"width":324,"height":140,"type":"text","text":"***Diagrama esquemático***: "}
+		{"id":"2658f67b409467b7","type":"text","text":">*Existem 2 formas gráficas de se representar circuitos eletrônicos*","x":117,"y":-413,"width":323,"height":73},
+		{"id":"c3da02c09934e91e","type":"text","text":"# Simbologia","x":-96,"y":-260,"width":236,"height":60},
+		{"id":"9b6997f1a2900c45","type":"text","text":"***Diagrama de blocos***: Representa cada estágio em um circuito, utilizando-se por meio de uma caixa contendo o nome do estágio.","x":556,"y":-520,"width":364,"height":120},
+		{"id":"ad39152e4ef5ef57","type":"text","text":"***Diagrama esquemático***: ","x":556,"y":-320,"width":324,"height":140}
 	],
 	"edges":[
 		{"id":"13ee3b9009db9360","fromNode":"c3da02c09934e91e","fromSide":"top","toNode":"2658f67b409467b7","toSide":"left"},

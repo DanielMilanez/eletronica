@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0655d8918232a97c","x":-350,"y":-162,"width":390,"height":60,"type":"text","text":"# Tensão elétrica continua"},
+		{"id":"b48eb124063c3e41","x":40,"y":-380,"width":260,"height":118,"type":"text","text":"Pilhas e baterias são a mesma coisa, a única diferença é a quantidade de células que uma possui."},
+		{"id":"65af9a3d8f053499","x":40,"y":-580,"width":250,"height":180,"type":"text","text":"O fator material químico é importante para dizer quanto tempo uma pilha dura, pilhas alcalinas duram mais do que pilhas comuns"},
+		{"id":"c7616c6cc1811fd3","x":-499,"y":-580,"width":279,"height":229,"type":"text","text":"Qualquer aparelho ou circuito capaz de fornecer tensão elétrica é também chamado fonte de tensão ou fonte de alimentação.\n\nA pilha portanto é uma ***fonte de tensão continua***"}
+	],
+	"edges":[
+		{"id":"1a3e5cf726719f42","fromNode":"0655d8918232a97c","fromSide":"top","toNode":"b48eb124063c3e41","toSide":"left"},
+		{"id":"eeacbd2f57d6166c","fromNode":"0655d8918232a97c","fromSide":"top","toNode":"65af9a3d8f053499","toSide":"left"},
+		{"id":"4acc271d4a6fce2a","fromNode":"0655d8918232a97c","fromSide":"top","toNode":"c7616c6cc1811fd3","toSide":"bottom"}
+	]
+}

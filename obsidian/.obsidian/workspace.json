@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Simbologia.canvas",
+                "file": "DDP.canvas",
                 "viewState": {
-                  "x": 412,
-                  "y": -350,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simbologia.canvas",
+                "file": "DDP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simbologia.canvas",
+                "file": "DDP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simbologia.canvas"
+                "file": "DDP.canvas"
               }
             }
           }
@@ -149,10 +149,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3bf5d87e8a302045",
+  "active": "25da4943345d5e8a",
   "lastOpenFiles": [
-    "Unidade de Medida.canvas",
+    "Tensão elétrica.canvas",
+    "DDP.canvas",
     "Simbologia.canvas",
+    "Unidade de Medida.canvas",
     "Sem título.md"
   ]
 }
