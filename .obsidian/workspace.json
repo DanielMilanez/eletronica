@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "45e4ac5de42b5338",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8971c7109805485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed863dfef59c107f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb1cf74238bf4482",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c05386b89037d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20efb7c90e52564b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9b7a5da1a738d26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec45aa708c041aa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c6d2542dcc4dc57",
+    "type": "split",
+    "children": [
+      {
+        "id": "487cd6aa7b576356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02b0916007f6ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9681d4c9a4c036b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a7e367cdde09210",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfb4f96e0f50bac5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20efb7c90e52564b",
+  "lastOpenFiles": [
+    "fundamentos/unidade_de_medida.md",
+    "README.md",
+    "obsidian/Tensão elétrica.canvas",
+    "obsidian/Simbologia.canvas",
+    "obsidian/Unidade de Medida.canvas",
+    "obsidian/DDP.canvas"
+  ]
+}

@@ -1,13 +1,27 @@
 {
 	"nodes":[
-		{"id":"2658f67b409467b7","type":"text","text":">*Existem 2 formas gráficas de se representar circuitos eletrônicos*","x":117,"y":-413,"width":323,"height":73},
-		{"id":"c3da02c09934e91e","type":"text","text":"# Simbologia","x":-96,"y":-260,"width":236,"height":60},
-		{"id":"9b6997f1a2900c45","type":"text","text":"***Diagrama de blocos***: Representa cada estágio em um circuito, utilizando-se por meio de uma caixa contendo o nome do estágio.","x":556,"y":-520,"width":364,"height":120},
-		{"id":"ad39152e4ef5ef57","type":"text","text":"***Diagrama esquemático***: ","x":556,"y":-320,"width":324,"height":140}
+		{"id":"342617ea4386c2cc","type":"group","x":-820,"y":-880,"width":460,"height":1100,"label":"Lista"},
+		{"id":"2658f67b409467b7","type":"text","text":">*Existem 2 formas gráficas de se representar circuitos eletrônicos*","x":117,"y":-413,"width":323,"height":93},
+		{"id":"c3da02c09934e91e","type":"text","text":"# Simbologia","x":-96,"y":-260,"width":236,"height":80},
+		{"id":"d1881b2d4db4289e","type":"text","text":"Quando 2 linhas se encontram significa que há uma conexão entre elas\n\nMas existem exceções:\n- Cruzamento sem conexão.\n- Cruzamento com conexão.\n\n\n","x":190,"y":-740,"width":366,"height":200},
+		{"id":"0a5641e535ffb961","type":"text","text":"# Catodo: terminal negativo\n\n# Anodo: terminal positivo\n","x":-204,"y":-104,"width":452,"height":129},
+		{"id":"82b1d90ef720ad3c","type":"text","text":"GND ou ground: Terra ","x":-780,"y":-880,"width":360,"height":60},
+		{"id":"d60b176c002d8710","type":"text","text":"Uma seta no centro do componente indica que ele é um componente de valor variável. Significa que o valor do componente varia","x":-780,"y":-806,"width":360,"height":146},
+		{"id":"12bebb0815aeffef","type":"text","text":"Duas linhas paralelas de mesmo tamanho indicam um capacitor.","x":-780,"y":-633,"width":360,"height":113},
+		{"id":"17b420cd90dbe65f","type":"text","text":"Um resistor é o nome dado a qualquer componente que se oponha a passagem elétrica ","x":-780,"y":-493,"width":360,"height":133},
+		{"id":"e6430166513da02c","type":"text","text":"Uma fonte de tensão continua é representada por duas barras paralelas, uma menor que a outra. Quando queremos representar um bateria ou um conjunto de pilhas podemos duplicar esse símbolo para representar suas células. ","x":-780,"y":-333,"width":360,"height":233},
+		{"id":"2f625fba2fd985b4","type":"text","text":"Duas setas paralelas isso indica luz. Assim se elas possuírem o sentido do componente, significa que é um sensor de luz.\n\nAgora se elas apontarem para fora do componente, indica um componente que emite luz","x":-780,"y":-70,"width":360,"height":250},
+		{"id":"ad39152e4ef5ef57","type":"text","text":"***Diagrama esquemático***:  É um desenho que mostra, através de símbolos gráficos padronizados, a maneira pela qual os diversos componentes de um circuito eletrônico estão interligados.","x":556,"y":-340,"width":384,"height":160},
+		{"id":"9b6997f1a2900c45","type":"text","text":"***Diagrama de blocos***: Representa cada estágio em um circuito, utilizando-se por meio de uma caixa contendo o nome do estágio.","x":556,"y":-493,"width":384,"height":120},
+		{"id":"0aad38f28619c3d8","type":"text","text":"***conexões: placa de circuito impresso (PCB, printed, circuit board)***","x":460,"y":-140,"width":328,"height":80}
 	],
 	"edges":[
 		{"id":"13ee3b9009db9360","fromNode":"c3da02c09934e91e","fromSide":"top","toNode":"2658f67b409467b7","toSide":"left"},
 		{"id":"09aabc4797cb3582","fromNode":"2658f67b409467b7","fromSide":"right","toNode":"9b6997f1a2900c45","toSide":"left"},
-		{"id":"9317c1d3dc9c60b1","fromNode":"2658f67b409467b7","fromSide":"right","toNode":"ad39152e4ef5ef57","toSide":"left"}
+		{"id":"9317c1d3dc9c60b1","fromNode":"2658f67b409467b7","fromSide":"right","toNode":"ad39152e4ef5ef57","toSide":"left"},
+		{"id":"1b07ab01dee68b3c","fromNode":"c3da02c09934e91e","fromSide":"top","toNode":"d1881b2d4db4289e","toSide":"left"},
+		{"id":"29e6a5c32b87364c","fromNode":"2658f67b409467b7","fromSide":"bottom","toNode":"0aad38f28619c3d8","toSide":"left"},
+		{"id":"5bf70fab5988b854","fromNode":"c3da02c09934e91e","fromSide":"bottom","toNode":"0a5641e535ffb961","toSide":"top"},
+		{"id":"c0f1307eac0c8e8e","fromNode":"c3da02c09934e91e","fromSide":"left","toNode":"342617ea4386c2cc","toSide":"right","label":"símbolos"}
 	]
 }
